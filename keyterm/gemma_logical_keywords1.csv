@@ -1,0 +1,24 @@
+conversation_id,turn_no,speaker,utterance,P-Strategy,keyword1,keyword2,keyword3,keyword4,keyword5
+1,1,User,I have a 2021 Honda Amaze. What insurance would you recommend?,Logical,Recommend,Insurance,Logical,,
+1,2,Agent,Of course. HDFC ERGO offers comprehensive policies with additional benefits such as Roadside Assistance and Zero Depreciation.,Logical,Benefits,Policy,Assistance,Depreciation,
+1,3,User,What does the comprehensive policy include and what's the premium?,Logical,Policy,Premium,Include,What,
+1,4,Agent,"It includes own damage, third-party liability, theft, natural disasters, and more. The premium is approx $1176 per year, based on IDV.",Logical,Logic,Reason,Evidence,Value,Cost
+1,5,User,Is there roadside assistance in the policy?,Logical,Policy,Assistance,Roadside,Logic,
+1,6,Agent,"Yes, HDFC ERGO includes Roadside Assistance with services like towing, jump-start, flat tire help, and fuel delivery.",Logical,Assistance,Services,Benefits,Features,
+1,7,User,Can I get add-ons like Zero Depreciation?,Logical,Zero Depreciation,,,,
+1,8,Agent,"Yes, Zero Depreciation is a valuable add-on. It’ll cost an extra $145 yearly but maximizes your claim amount.",Logical,Value,Claim,Depreciation,Cost,
+1,9,User,Is the claim process easy?,Logical,Easy,,,,
+1,10,Agent,HDFC ERGO has a hassle-free claim process with online tracking and a wide garage network for cashless repairs.,Logical,Claim,Process,Tracking,Network,
+1,11,User,I haven’t claimed before. Any benefit?,Logical,Benefit,,,,
+1,12,Agent,"Yes, you qualify for a No Claim Bonus, which reduces your premium and can go up to 50%.",Logical,Bonus,Premium,Reduce,Qualify,
+1,13,User,What about engine damage—does the policy cover that?,Logical,"Cover
+Damage
+Policy
+Engine",,,,
+1,14,Agent,That’s covered if you opt for the Engine & Gearbox Protection add-on. It’s recommended for newer vehicles.,Logical,Covered,Recommended,Opt,Protection,
+1,15,User,Thanks! I’m interested in the HDFC ERGO plan.,Logical,Persuasion,Logic,Reason,Argument,Evidence
+1,16,Agent,Perfect! I’ll prepare a detailed quote and guide you through the online purchase steps.,Logical,Guide,Quote,Steps,Prepare,
+2,1,User,I have a 2023 Maruti Suzuki Celerio. What insurance would you recommend?,Logical,Recommend,Insurance,Persuasion,Logical,
+2,2,Agent,Of course. HDFC ERGO offers comprehensive policies with additional benefits such as Roadside Assistance and Zero Depreciation.,Logical,Benefits,Policy,Assistance,Depreciation,
+2,3,User,What does the comprehensive policy include and what's the premium?,Logical,Policy,Premium,Include,What,
+2,4,Agent,"It includes own damage, third-party liability, theft, natural disasters, and more. The premium is approx $968 per year, based on IDV.",Logical,Logic,Reason,Evidence,Value,Risk

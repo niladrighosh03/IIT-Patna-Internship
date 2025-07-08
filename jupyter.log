@@ -1,0 +1,249 @@
+nohup: ignoring input
+[I 2025-06-17 20:18:19.936 ServerApp] jupyter_lsp | extension was successfully linked.
+[I 2025-06-17 20:18:19.939 ServerApp] jupyter_server_terminals | extension was successfully linked.
+[I 2025-06-17 20:18:19.942 ServerApp] jupyterlab | extension was successfully linked.
+[I 2025-06-17 20:18:19.945 ServerApp] notebook | extension was successfully linked.
+[I 2025-06-17 20:18:20.106 ServerApp] notebook_shim | extension was successfully linked.
+[I 2025-06-17 20:18:20.117 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2025-06-17 20:18:20.118 ServerApp] jupyter_lsp | extension was successfully loaded.
+[I 2025-06-17 20:18:20.119 ServerApp] jupyter_server_terminals | extension was successfully loaded.
+[I 2025-06-17 20:18:20.120 LabApp] JupyterLab extension loaded from /DATA/rohan_kirti/miniconda3/envs/salesbot/lib/python3.11/site-packages/jupyterlab
+[I 2025-06-17 20:18:20.120 LabApp] JupyterLab application directory is /DATA/rohan_kirti/miniconda3/envs/salesbot/share/jupyter/lab
+[I 2025-06-17 20:18:20.120 LabApp] Extension Manager is 'pypi'.
+[I 2025-06-17 20:18:20.130 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2025-06-17 20:18:20.133 ServerApp] notebook | extension was successfully loaded.
+[I 2025-06-17 20:18:20.133 ServerApp] Serving notebooks from local directory: /DATA/rohan_kirti/niladri
+[I 2025-06-17 20:18:20.133 ServerApp] Jupyter Server 2.14.2 is running at:
+[I 2025-06-17 20:18:20.133 ServerApp] http://user:1235/tree
+[I 2025-06-17 20:18:20.133 ServerApp]     http://127.0.0.1:1235/tree
+[I 2025-06-17 20:18:20.133 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 2025-06-17 20:18:20.168 ServerApp] Skipped non-installed server(s): bash-language-server, dockerfile-language-server-nodejs, javascript-typescript-langserver, jedi-language-server, julia-language-server, pyright, python-language-server, python-lsp-server, r-languageserver, sql-language-server, texlab, typescript-language-server, unified-language-server, vscode-css-languageserver-bin, vscode-html-languageserver-bin, vscode-json-languageserver-bin, yaml-language-server
+[W 2025-06-17 20:19:48.250 ServerApp] 404 GET /hub/api (@172.30.1.83) 21.85ms referer=None
+[I 2025-06-17 20:19:48.254 ServerApp] 302 GET / (@172.30.1.83) 0.37ms
+[I 2025-06-17 20:19:48.258 JupyterNotebookApp] 302 GET /tree? (@172.30.1.83) 0.56ms
+[I 2025-06-17 20:19:51.824 ServerApp] User 07eaa3627df046d39d2b32db48129848 logged in.
+[I 2025-06-17 20:19:51.825 ServerApp] 302 POST /login? (07eaa3627df046d39d2b32db48129848@172.30.1.83) 67.21ms
+[I 2025-06-17 20:19:59.610 ServerApp] Kernel started: 904510a7-8302-481d-8740-242e92be1f93
+[I 2025-06-17 20:20:00.052 ServerApp] Connecting to kernel 904510a7-8302-481d-8740-242e92be1f93.
+2025-06-17 20:20:03.130110: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-06-17 20:20:03.143838: E external/local_xla/xla/stream_executor/cuda/cuda_fft.cc:485] Unable to register cuFFT factory: Attempting to register factory for plugin cuFFT when one has already been registered
+2025-06-17 20:20:03.160887: E external/local_xla/xla/stream_executor/cuda/cuda_dnn.cc:8454] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+2025-06-17 20:20:03.165982: E external/local_xla/xla/stream_executor/cuda/cuda_blas.cc:1452] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+2025-06-17 20:20:03.178254: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX512F AVX512_VNNI FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2025-06-17 20:20:04.085949: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Could not find TensorRT
+[I 2025-06-17 23:05:47.908 ServerApp] Connecting to kernel 904510a7-8302-481d-8740-242e92be1f93.
+[I 2025-06-17 23:24:36.665 ServerApp] Kernel restarted: 904510a7-8302-481d-8740-242e92be1f93
+[I 2025-06-17 23:24:36.670 ServerApp] Starting buffering for 904510a7-8302-481d-8740-242e92be1f93:fa4e511a-060d-410e-a20c-4413bdd38674
+[I 2025-06-17 23:24:36.679 ServerApp] Connecting to kernel 904510a7-8302-481d-8740-242e92be1f93.
+[I 2025-06-17 23:24:36.679 ServerApp] Restoring connection for 904510a7-8302-481d-8740-242e92be1f93:fa4e511a-060d-410e-a20c-4413bdd38674
+[I 2025-06-17 23:38:58.931 ServerApp] Kernel started: d426b323-469b-47c9-9ad3-d245dd03d52b
+[I 2025-06-17 23:38:59.419 ServerApp] Connecting to kernel d426b323-469b-47c9-9ad3-d245dd03d52b.
+2025-06-17 23:39:02.615331: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-06-17 23:39:02.628723: E external/local_xla/xla/stream_executor/cuda/cuda_fft.cc:485] Unable to register cuFFT factory: Attempting to register factory for plugin cuFFT when one has already been registered
+2025-06-17 23:39:02.645264: E external/local_xla/xla/stream_executor/cuda/cuda_dnn.cc:8454] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+2025-06-17 23:39:02.650316: E external/local_xla/xla/stream_executor/cuda/cuda_blas.cc:1452] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+2025-06-17 23:39:02.662384: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX512F AVX512_VNNI FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2025-06-17 23:39:03.591455: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Could not find TensorRT
+[I 2025-06-18 01:20:03.255 ServerApp] Kernel interrupted: d426b323-469b-47c9-9ad3-d245dd03d52b
+[I 2025-06-18 01:22:38.293 ServerApp] Kernel restarted: 904510a7-8302-481d-8740-242e92be1f93
+[I 2025-06-18 01:22:38.298 ServerApp] Starting buffering for 904510a7-8302-481d-8740-242e92be1f93:fa4e511a-060d-410e-a20c-4413bdd38674
+[I 2025-06-18 01:22:38.310 ServerApp] Connecting to kernel 904510a7-8302-481d-8740-242e92be1f93.
+[I 2025-06-18 01:22:38.310 ServerApp] Restoring connection for 904510a7-8302-481d-8740-242e92be1f93:fa4e511a-060d-410e-a20c-4413bdd38674
+[I 2025-06-18 01:22:43.707 ServerApp] Kernel restarted: 904510a7-8302-481d-8740-242e92be1f93
+[I 2025-06-18 01:22:43.711 ServerApp] Starting buffering for 904510a7-8302-481d-8740-242e92be1f93:fa4e511a-060d-410e-a20c-4413bdd38674
+[I 2025-06-18 01:22:43.720 ServerApp] Connecting to kernel 904510a7-8302-481d-8740-242e92be1f93.
+[I 2025-06-18 01:22:43.720 ServerApp] Restoring connection for 904510a7-8302-481d-8740-242e92be1f93:fa4e511a-060d-410e-a20c-4413bdd38674
+[I 2025-06-18 01:23:35.533 ServerApp] Starting buffering for d426b323-469b-47c9-9ad3-d245dd03d52b:f65b0da0-2d88-48c7-83e4-84e748d36d6d
+[I 2025-06-18 01:23:35.534 ServerApp] Starting buffering for 904510a7-8302-481d-8740-242e92be1f93:fa4e511a-060d-410e-a20c-4413bdd38674
+[I 2025-06-18 01:23:58.629 ServerApp] 302 GET / (@172.30.1.83) 0.94ms
+[I 2025-06-18 01:23:58.630 ServerApp] 302 GET / (@172.30.1.83) 0.53ms
+[I 2025-06-18 01:23:58.662 JupyterNotebookApp] 302 GET /tree? (@172.30.1.83) 1.07ms
+[I 2025-06-18 01:23:58.663 JupyterNotebookApp] 302 GET /tree? (@172.30.1.83) 0.66ms
+[W 2025-06-18 01:24:03.270 ServerApp] wrote error: 'Forbidden'
+    Traceback (most recent call last):
+      File "/DATA/rohan_kirti/miniconda3/envs/salesbot/lib/python3.11/site-packages/tornado/web.py", line 1788, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/DATA/rohan_kirti/miniconda3/envs/salesbot/lib/python3.11/site-packages/tornado/web.py", line 3289, in wrapper
+        url = self.get_login_url()
+              ^^^^^^^^^^^^^^^^^^^^
+      File "/DATA/rohan_kirti/miniconda3/envs/salesbot/lib/python3.11/site-packages/jupyter_server/base/handlers.py", line 783, in get_login_url
+        raise web.HTTPError(403)
+    tornado.web.HTTPError: HTTP 403: Forbidden
+[W 2025-06-18 01:24:03.274 ServerApp] 403 GET /api/kernelspecs?1750190038839 (@172.30.1.83) 4.30ms referer=None
+[W 2025-06-18 01:24:03.275 ServerApp] wrote error: 'Forbidden'
+    Traceback (most recent call last):
+      File "/DATA/rohan_kirti/miniconda3/envs/salesbot/lib/python3.11/site-packages/tornado/web.py", line 1788, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/DATA/rohan_kirti/miniconda3/envs/salesbot/lib/python3.11/site-packages/tornado/web.py", line 3289, in wrapper
+        url = self.get_login_url()
+              ^^^^^^^^^^^^^^^^^^^^
+      File "/DATA/rohan_kirti/miniconda3/envs/salesbot/lib/python3.11/site-packages/jupyter_server/base/handlers.py", line 783, in get_login_url
+        raise web.HTTPError(403)
+    tornado.web.HTTPError: HTTP 403: Forbidden
+[W 2025-06-18 01:24:03.276 ServerApp] 403 GET /api/kernels?1750190038840 (@172.30.1.83) 1.77ms referer=None
+[W 2025-06-18 01:24:09.442 ServerApp] wrote error: 'Forbidden'
+    Traceback (most recent call last):
+      File "/DATA/rohan_kirti/miniconda3/envs/salesbot/lib/python3.11/site-packages/tornado/web.py", line 1788, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/DATA/rohan_kirti/miniconda3/envs/salesbot/lib/python3.11/site-packages/tornado/web.py", line 3289, in wrapper
+        url = self.get_login_url()
+              ^^^^^^^^^^^^^^^^^^^^
+      File "/DATA/rohan_kirti/miniconda3/envs/salesbot/lib/python3.11/site-packages/jupyter_server/base/handlers.py", line 783, in get_login_url
+        raise web.HTTPError(403)
+    tornado.web.HTTPError: HTTP 403: Forbidden
+[W 2025-06-18 01:24:09.444 ServerApp] 403 GET /api/kernels?1750190043269 (@172.30.1.83) 2.22ms referer=None
+[W 2025-06-18 01:24:09.444 ServerApp] wrote error: 'Forbidden'
+    Traceback (most recent call last):
+      File "/DATA/rohan_kirti/miniconda3/envs/salesbot/lib/python3.11/site-packages/tornado/web.py", line 1788, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/DATA/rohan_kirti/miniconda3/envs/salesbot/lib/python3.11/site-packages/tornado/web.py", line 3289, in wrapper
+        url = self.get_login_url()
+              ^^^^^^^^^^^^^^^^^^^^
+      File "/DATA/rohan_kirti/miniconda3/envs/salesbot/lib/python3.11/site-packages/jupyter_server/base/handlers.py", line 783, in get_login_url
+        raise web.HTTPError(403)
+    tornado.web.HTTPError: HTTP 403: Forbidden
+[W 2025-06-18 01:24:09.446 ServerApp] 403 GET /api/sessions?1750190043271 (@172.30.1.83) 1.70ms referer=None
+[W 2025-06-18 01:24:09.625 ServerApp] wrote error: 'Forbidden'
+    Traceback (most recent call last):
+      File "/DATA/rohan_kirti/miniconda3/envs/salesbot/lib/python3.11/site-packages/tornado/web.py", line 1788, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/DATA/rohan_kirti/miniconda3/envs/salesbot/lib/python3.11/site-packages/tornado/web.py", line 3289, in wrapper
+        url = self.get_login_url()
+              ^^^^^^^^^^^^^^^^^^^^
+      File "/DATA/rohan_kirti/miniconda3/envs/salesbot/lib/python3.11/site-packages/jupyter_server/base/handlers.py", line 783, in get_login_url
+        raise web.HTTPError(403)
+    tornado.web.HTTPError: HTTP 403: Forbidden
+[W 2025-06-18 01:24:09.626 ServerApp] 403 GET /api/kernelspecs?1750190049442 (@172.30.1.83) 1.84ms referer=None
+[I 2025-06-18 01:24:09.630 ServerApp] 302 GET / (@172.30.1.83) 0.54ms
+[I 2025-06-18 01:24:10.089 JupyterNotebookApp] 302 GET /tree? (@172.30.1.83) 0.76ms
+[W 2025-06-18 01:24:10.770 ServerApp] wrote error: 'Forbidden'
+    Traceback (most recent call last):
+      File "/DATA/rohan_kirti/miniconda3/envs/salesbot/lib/python3.11/site-packages/tornado/web.py", line 1788, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/DATA/rohan_kirti/miniconda3/envs/salesbot/lib/python3.11/site-packages/tornado/web.py", line 3289, in wrapper
+        url = self.get_login_url()
+              ^^^^^^^^^^^^^^^^^^^^
+      File "/DATA/rohan_kirti/miniconda3/envs/salesbot/lib/python3.11/site-packages/jupyter_server/base/handlers.py", line 783, in get_login_url
+        raise web.HTTPError(403)
+    tornado.web.HTTPError: HTTP 403: Forbidden
+[W 2025-06-18 01:24:10.772 ServerApp] 403 GET /api/kernelspecs?1750190050766 (@172.30.1.83) 2.45ms referer=None
+[W 2025-06-18 01:24:10.775 ServerApp] wrote error: 'Forbidden'
+    Traceback (most recent call last):
+      File "/DATA/rohan_kirti/miniconda3/envs/salesbot/lib/python3.11/site-packages/tornado/web.py", line 1788, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/DATA/rohan_kirti/miniconda3/envs/salesbot/lib/python3.11/site-packages/tornado/web.py", line 3289, in wrapper
+        url = self.get_login_url()
+              ^^^^^^^^^^^^^^^^^^^^
+      File "/DATA/rohan_kirti/miniconda3/envs/salesbot/lib/python3.11/site-packages/jupyter_server/base/handlers.py", line 783, in get_login_url
+        raise web.HTTPError(403)
+    tornado.web.HTTPError: HTTP 403: Forbidden
+[W 2025-06-18 01:24:10.776 ServerApp] 403 GET /api/kernels?1750190050767 (@172.30.1.83) 1.77ms referer=None
+[W 2025-06-18 01:24:10.777 ServerApp] wrote error: 'Forbidden'
+    Traceback (most recent call last):
+      File "/DATA/rohan_kirti/miniconda3/envs/salesbot/lib/python3.11/site-packages/tornado/web.py", line 1788, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/DATA/rohan_kirti/miniconda3/envs/salesbot/lib/python3.11/site-packages/tornado/web.py", line 3289, in wrapper
+        url = self.get_login_url()
+              ^^^^^^^^^^^^^^^^^^^^
+      File "/DATA/rohan_kirti/miniconda3/envs/salesbot/lib/python3.11/site-packages/jupyter_server/base/handlers.py", line 783, in get_login_url
+        raise web.HTTPError(403)
+    tornado.web.HTTPError: HTTP 403: Forbidden
+[W 2025-06-18 01:24:10.778 ServerApp] 403 GET /api/kernels?1750190050769 (@172.30.1.83) 1.90ms referer=None
+[W 2025-06-18 01:24:10.779 ServerApp] wrote error: 'Forbidden'
+    Traceback (most recent call last):
+      File "/DATA/rohan_kirti/miniconda3/envs/salesbot/lib/python3.11/site-packages/tornado/web.py", line 1788, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/DATA/rohan_kirti/miniconda3/envs/salesbot/lib/python3.11/site-packages/tornado/web.py", line 3289, in wrapper
+        url = self.get_login_url()
+              ^^^^^^^^^^^^^^^^^^^^
+      File "/DATA/rohan_kirti/miniconda3/envs/salesbot/lib/python3.11/site-packages/jupyter_server/base/handlers.py", line 783, in get_login_url
+        raise web.HTTPError(403)
+    tornado.web.HTTPError: HTTP 403: Forbidden
+[W 2025-06-18 01:24:10.780 ServerApp] 403 GET /api/sessions?1750190050771 (@172.30.1.83) 2.93ms referer=None
+[W 2025-06-18 01:24:10.781 ServerApp] wrote error: 'Forbidden'
+    Traceback (most recent call last):
+      File "/DATA/rohan_kirti/miniconda3/envs/salesbot/lib/python3.11/site-packages/tornado/web.py", line 1788, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/DATA/rohan_kirti/miniconda3/envs/salesbot/lib/python3.11/site-packages/tornado/web.py", line 3289, in wrapper
+        url = self.get_login_url()
+              ^^^^^^^^^^^^^^^^^^^^
+      File "/DATA/rohan_kirti/miniconda3/envs/salesbot/lib/python3.11/site-packages/jupyter_server/base/handlers.py", line 783, in get_login_url
+        raise web.HTTPError(403)
+    tornado.web.HTTPError: HTTP 403: Forbidden
+[W 2025-06-18 01:24:10.782 ServerApp] 403 GET /api/kernelspecs?1750190050775 (@172.30.1.83) 1.64ms referer=None
+[I 2025-06-18 01:24:10.783 ServerApp] 302 GET / (@172.30.1.83) 0.52ms
+[I 2025-06-18 01:24:10.786 JupyterNotebookApp] 302 GET /tree? (@172.30.1.83) 0.66ms
+[W 2025-06-18 01:24:10.894 ServerApp] wrote error: 'Forbidden'
+    Traceback (most recent call last):
+      File "/DATA/rohan_kirti/miniconda3/envs/salesbot/lib/python3.11/site-packages/tornado/web.py", line 1788, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/DATA/rohan_kirti/miniconda3/envs/salesbot/lib/python3.11/site-packages/tornado/web.py", line 3289, in wrapper
+        url = self.get_login_url()
+              ^^^^^^^^^^^^^^^^^^^^
+      File "/DATA/rohan_kirti/miniconda3/envs/salesbot/lib/python3.11/site-packages/jupyter_server/base/handlers.py", line 783, in get_login_url
+        raise web.HTTPError(403)
+    tornado.web.HTTPError: HTTP 403: Forbidden
+[W 2025-06-18 01:24:10.895 ServerApp] 403 GET /api/kernelspecs?1750190050890 (@172.30.1.83) 1.96ms referer=None
+[W 2025-06-18 01:24:10.901 ServerApp] wrote error: 'Forbidden'
+    Traceback (most recent call last):
+      File "/DATA/rohan_kirti/miniconda3/envs/salesbot/lib/python3.11/site-packages/tornado/web.py", line 1788, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/DATA/rohan_kirti/miniconda3/envs/salesbot/lib/python3.11/site-packages/tornado/web.py", line 3289, in wrapper
+        url = self.get_login_url()
+              ^^^^^^^^^^^^^^^^^^^^
+      File "/DATA/rohan_kirti/miniconda3/envs/salesbot/lib/python3.11/site-packages/jupyter_server/base/handlers.py", line 783, in get_login_url
+        raise web.HTTPError(403)
+    tornado.web.HTTPError: HTTP 403: Forbidden
+[W 2025-06-18 01:24:10.902 ServerApp] 403 GET /api/kernels?1750190050891 (@172.30.1.83) 1.63ms referer=None
+[W 2025-06-18 01:24:10.903 ServerApp] wrote error: 'Forbidden'
+    Traceback (most recent call last):
+      File "/DATA/rohan_kirti/miniconda3/envs/salesbot/lib/python3.11/site-packages/tornado/web.py", line 1788, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/DATA/rohan_kirti/miniconda3/envs/salesbot/lib/python3.11/site-packages/tornado/web.py", line 3289, in wrapper
+        url = self.get_login_url()
+              ^^^^^^^^^^^^^^^^^^^^
+      File "/DATA/rohan_kirti/miniconda3/envs/salesbot/lib/python3.11/site-packages/jupyter_server/base/handlers.py", line 783, in get_login_url
+        raise web.HTTPError(403)
+    tornado.web.HTTPError: HTTP 403: Forbidden
+[W 2025-06-18 01:24:10.905 ServerApp] 403 GET /api/kernels?1750190050896 (@172.30.1.83) 2.16ms referer=None
+[W 2025-06-18 01:24:10.905 ServerApp] wrote error: 'Forbidden'
+    Traceback (most recent call last):
+      File "/DATA/rohan_kirti/miniconda3/envs/salesbot/lib/python3.11/site-packages/tornado/web.py", line 1788, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/DATA/rohan_kirti/miniconda3/envs/salesbot/lib/python3.11/site-packages/tornado/web.py", line 3289, in wrapper
+        url = self.get_login_url()
+              ^^^^^^^^^^^^^^^^^^^^
+      File "/DATA/rohan_kirti/miniconda3/envs/salesbot/lib/python3.11/site-packages/jupyter_server/base/handlers.py", line 783, in get_login_url
+        raise web.HTTPError(403)
+    tornado.web.HTTPError: HTTP 403: Forbidden
+[W 2025-06-18 01:24:10.906 ServerApp] 403 GET /api/sessions?1750190050897 (@172.30.1.83) 3.39ms referer=None
+[W 2025-06-18 01:24:10.908 ServerApp] wrote error: 'Forbidden'
+    Traceback (most recent call last):
+      File "/DATA/rohan_kirti/miniconda3/envs/salesbot/lib/python3.11/site-packages/tornado/web.py", line 1788, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/DATA/rohan_kirti/miniconda3/envs/salesbot/lib/python3.11/site-packages/tornado/web.py", line 3289, in wrapper
+        url = self.get_login_url()
+              ^^^^^^^^^^^^^^^^^^^^
+      File "/DATA/rohan_kirti/miniconda3/envs/salesbot/lib/python3.11/site-packages/jupyter_server/base/handlers.py", line 783, in get_login_url
+        raise web.HTTPError(403)
+    tornado.web.HTTPError: HTTP 403: Forbidden
+[W 2025-06-18 01:24:10.909 ServerApp] 403 GET /api/kernelspecs?1750190050902 (@172.30.1.83) 1.73ms referer=None
+[IPKernelApp] WARNING | Parent appears to have exited, shutting down.
+[IPKernelApp] WARNING | Parent appears to have exited, shutting down.

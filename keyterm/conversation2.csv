@@ -1,0 +1,25 @@
+conversation_id,turn_no,speaker,utterance,P-Strategy
+1,1,User,I have a 2021 Honda Amaze. What insurance would you recommend?,Logical
+1,2,Agent,Of course. HDFC ERGO offers comprehensive policies with additional benefits such as Roadside Assistance and Zero Depreciation.,Logical
+1,3,User,What does the comprehensive policy include and what's the premium?,Logical
+1,4,Agent,"It includes own damage, third-party liability, theft, natural disasters, and more. The premium is approx $1176 per year, based on IDV.",Logical
+1,5,User,Is there roadside assistance in the policy?,Logical
+1,6,Agent,"Yes, HDFC ERGO includes Roadside Assistance with services like towing, jump-start, flat tire help, and fuel delivery.",Logical
+1,7,User,Can I get add-ons like Zero Depreciation?,Logical
+1,8,Agent,"Yes, Zero Depreciation is a valuable add-on. It’ll cost an extra $145 yearly but maximizes your claim amount.",Logical
+1,9,User,Is the claim process easy?,Logical
+1,10,Agent,HDFC ERGO has a hassle-free claim process with online tracking and a wide garage network for cashless repairs.,Logical
+1,11,User,I haven’t claimed before. Any benefit?,Logical
+6,12,Agent,"For your Jeep Wrangler, it's around $1200 per year. It's an investment in your adventures, knowing you're covered against the unexpected challenges of off-roading.",Emotional
+6,13,User,That's a bit steep. Are there any discounts?,Emotional
+6,14,Agent,Let me check if you qualify for any off-road enthusiast or safe driver discounts. I want to make sure you can continue exploring without financial worries. Your passion deserves protection.,Emotional
+7,2,Agent,I understand. Protecting your investment is crucial. I recommend Tata AIG General Insurance â€“ they understand the value of luxury vehicles.,Emotional
+7,3,User,What makes them better than other insurers for a BMW?,Emotional
+7,4,Agent,"They combine thorough coverage with rapid claims resolution. If something happens, they ensure your car is back to its original condition quickly, minimizing depreciation concerns.",Emotional
+7,5,User,What if the car is totaled? I'm worried about losing a lot of money.,Emotional
+7,6,Agent,"They offer Insured Declared Value (IDV) coverage, so you get the original invoice value in case of total loss. You can replace your BMW without a significant financial hit. We recognize your car is more than just a vehicle, its an asset.",Emotional
+7,7,User,What about the high-tech features? I'm worried about finding mechanics who can fix them.,Emotional
+7,8,Agent,"They have a network of authorized service centers with technicians trained to handle BMW's sophisticated technology. You can trust your car is in capable hands, ensuring quality repairs.",Emotional
+7,9,User,And if I'm in an accident and need a rental car?,Emotional
+7,10,Agent,"They provide rental car coverage, so you're not inconvenienced while your BMW is being repaired. You maintain your lifestyle without disruption during a difficult time.",Emotional
+7,11,User,"Okay, this sounds pretty good. How much is the premium?",Emotional

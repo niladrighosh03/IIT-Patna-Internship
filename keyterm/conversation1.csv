@@ -1,0 +1,21 @@
+conversation_id,turn_no,speaker,utterance,P-Strategy
+1,1,User,I have a 2021 Honda Amaze. What insurance would you recommend?,Logical
+1,2,Agent,Of course. HDFC ERGO offers comprehensive policies with additional benefits such as Roadside Assistance and Zero Depreciation.,Logical
+1,3,User,What does the comprehensive policy include and what's the premium?,Logical
+1,4,Agent,"It includes own damage, third-party liability, theft, natural disasters, and more. The premium is approx $1176 per year, based on IDV.",Logical
+1,5,User,Is there roadside assistance in the policy?,Logical
+1,6,Agent,"Yes, HDFC ERGO includes Roadside Assistance with services like towing, jump-start, flat tire help, and fuel delivery.",Logical
+1,7,User,Can I get add-ons like Zero Depreciation?,Logical
+1,8,Agent,"Yes, Zero Depreciation is a valuable add-on. It’ll cost an extra $145 yearly but maximizes your claim amount.",Logical
+1,9,User,Is the claim process easy?,Logical
+1,10,Agent,HDFC ERGO has a hassle-free claim process with online tracking and a wide garage network for cashless repairs.,Logical
+1,11,User,I haven’t claimed before. Any benefit?,Logical
+1,12,Agent,"Yes, you qualify for a No Claim Bonus, which reduces your premium and can go up to 50%.",Logical
+1,13,User,What about engine damage—does the policy cover that?,Logical
+1,14,Agent,That’s covered if you opt for the Engine & Gearbox Protection add-on. It’s recommended for newer vehicles.,Logical
+1,15,User,Thanks! I’m interested in the HDFC ERGO plan.,Logical
+1,16,Agent,Perfect! I’ll prepare a detailed quote and guide you through the online purchase steps.,Logical
+2,1,User,I have a 2023 Maruti Suzuki Celerio. What insurance would you recommend?,Logical
+2,2,Agent,Of course. HDFC ERGO offers comprehensive policies with additional benefits such as Roadside Assistance and Zero Depreciation.,Logical
+2,3,User,What does the comprehensive policy include and what's the premium?,Logical
+2,4,Agent,"It includes own damage, third-party liability, theft, natural disasters, and more. The premium is approx $968 per year, based on IDV.",sdfsdfsdfsdf
