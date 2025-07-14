@@ -3,6 +3,22 @@
 This repository provides a structured framework for evaluating response generation techniques using the `qwen2_5_7b_instruct` model. The system explores multiple expert strategies for generating, aggregating, and routing conversational AI outputs, with performance tracked using ROUGE scores.
 
 ---
+## 🧩 5 New Active Experts
+The framework integrates five always-active expert modules, each specializing in a key area of language understanding:
+
+`POS tagging`
+
+`Named Entity Recognition (NER)`
+
+`Topic Segmentation`
+
+`Language Detection`
+
+`Co-reference Resolution`
+
+These experts operate continuously to enhance the quality and contextual understanding of all generated responses, regardless of the strategy employed.
+
+---
 
 ## 📁 Folder Structure
 
