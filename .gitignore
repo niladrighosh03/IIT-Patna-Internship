@@ -4,3 +4,6 @@
 .grpo_llama3.2_finetuned
 .ipynb_checkpoints
 .keyterm/.ipynb_checkpoints
+.fine_tune/large_dataset/fine_tune model
+.fine_tune/large_dataset/fine_tune model2
+.fine_tune/large_dataset/results
