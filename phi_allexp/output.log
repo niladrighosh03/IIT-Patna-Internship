@@ -1,0 +1,22 @@
+Loading model and tokenizer...
+Fetching 6 files:   0%|          | 0/6 [00:00<?, ?it/s]Fetching 6 files:  17%|█▋        | 1/6 [03:31<17:36, 211.26s/it]Fetching 6 files: 100%|██████████| 6/6 [03:31<00:00, 35.22s/it] 
+Loading checkpoint shards:   0%|          | 0/6 [00:00<?, ?it/s]Loading checkpoint shards:  17%|█▋        | 1/6 [02:02<10:12, 122.42s/it]Loading checkpoint shards:  33%|███▎      | 2/6 [02:16<03:55, 58.77s/it] Loading checkpoint shards:  50%|█████     | 3/6 [02:33<01:58, 39.50s/it]Loading checkpoint shards:  67%|██████▋   | 4/6 [02:44<00:56, 28.17s/it]Loading checkpoint shards:  83%|████████▎ | 5/6 [02:57<00:22, 22.82s/it]Loading checkpoint shards: 100%|██████████| 6/6 [03:13<00:00, 20.64s/it]Loading checkpoint shards: 100%|██████████| 6/6 [03:13<00:00, 32.29s/it]
+Device set to use cuda:0
+Traceback (most recent call last):
+  File "/DATA/rohan_kirti/niladri/phi_allexp/dataset.py", line 437, in <module>
+    import spacy
+  File "/DATA/rohan_kirti/miniconda3/envs/nilenv/lib/python3.11/site-packages/spacy/__init__.py", line 6, in <module>
+    from .errors import setup_default_warnings
+  File "/DATA/rohan_kirti/miniconda3/envs/nilenv/lib/python3.11/site-packages/spacy/errors.py", line 2, in <module>
+    from .compat import Literal
+  File "/DATA/rohan_kirti/miniconda3/envs/nilenv/lib/python3.11/site-packages/spacy/compat.py", line 38, in <module>
+    from thinc.api import Optimizer  # noqa: F401
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/DATA/rohan_kirti/miniconda3/envs/nilenv/lib/python3.11/site-packages/thinc/api.py", line 1, in <module>
+    from .backends import (
+  File "/DATA/rohan_kirti/miniconda3/envs/nilenv/lib/python3.11/site-packages/thinc/backends/__init__.py", line 17, in <module>
+    from .cupy_ops import CupyOps
+  File "/DATA/rohan_kirti/miniconda3/envs/nilenv/lib/python3.11/site-packages/thinc/backends/cupy_ops.py", line 16, in <module>
+    from .numpy_ops import NumpyOps
+  File "thinc/backends/numpy_ops.pyx", line 1, in init thinc.backends.numpy_ops
+ValueError: numpy.dtype size changed, may indicate binary incompatibility. Expected 96 from C header, got 88 from PyObject
