@@ -1,6 +1,17 @@
 Loading model and tokenizer...
-Fetching 6 files:   0%|          | 0/6 [00:00<?, ?it/s]Fetching 6 files:  17%|█▋        | 1/6 [03:31<17:36, 211.26s/it]Fetching 6 files: 100%|██████████| 6/6 [03:31<00:00, 35.22s/it] 
-Loading checkpoint shards:   0%|          | 0/6 [00:00<?, ?it/s]Loading checkpoint shards:  17%|█▋        | 1/6 [02:02<10:12, 122.42s/it]Loading checkpoint shards:  33%|███▎      | 2/6 [02:16<03:55, 58.77s/it] Loading checkpoint shards:  50%|█████     | 3/6 [02:33<01:58, 39.50s/it]Loading checkpoint shards:  67%|██████▋   | 4/6 [02:44<00:56, 28.17s/it]Loading checkpoint shards:  83%|████████▎ | 5/6 [02:57<00:22, 22.82s/it]Loading checkpoint shards: 100%|██████████| 6/6 [03:13<00:00, 20.64s/it]Loading checkpoint shards: 100%|██████████| 6/6 [03:13<00:00, 32.29s/it]
+
+Fetching 6 files:   0%|          | 0/6 [00:00<?, ?it/s]
+Fetching 6 files:  17%|█▋        | 1/6 [03:31<17:36, 211.26s/it]
+Fetching 6 files: 100%|██████████| 6/6 [03:31<00:00, 35.22s/it] 
+
+Loading checkpoint shards:   0%|          | 0/6 [00:00<?, ?it/s]
+Loading checkpoint shards:  17%|█▋        | 1/6 [02:02<10:12, 122.42s/it]
+Loading checkpoint shards:  33%|███▎      | 2/6 [02:16<03:55, 58.77s/it] 
+Loading checkpoint shards:  50%|█████     | 3/6 [02:33<01:58, 39.50s/it]
+Loading checkpoint shards:  67%|██████▋   | 4/6 [02:44<00:56, 28.17s/it]
+Loading checkpoint shards:  83%|████████▎ | 5/6 [02:57<00:22, 22.82s/it]
+Loading checkpoint shards: 100%|██████████| 6/6 [03:13<00:00, 20.64s/it]
+Loading checkpoint shards: 100%|██████████| 6/6 [03:13<00:00, 32.29s/it]
 Device set to use cuda:0
 Traceback (most recent call last):
   File "/DATA/rohan_kirti/niladri/phi_allexp/dataset.py", line 437, in <module>
